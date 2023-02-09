@@ -1,4 +1,4 @@
-import { CourseDB } from "../types";
+import { CourseDB } from "../interfaces/types";
 import { BaseDatabase } from "./BaseDatabase";
 
 export class CourseDatabase extends BaseDatabase {
